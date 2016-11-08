@@ -4,6 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 //pruttidapoopi
 //fisiprutti är som risifrutti fast inte
+// ruttifruttipoopidoopi
 public class MainActivity extends AppCompatActivity {
 
     @Override
