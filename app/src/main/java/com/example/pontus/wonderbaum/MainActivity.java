@@ -8,6 +8,7 @@ import android.os.Bundle;
 //raahhh
 // :(
 // nej, :)
+// jjooooooo
 public class MainActivity extends AppCompatActivity {
 
     @Override
