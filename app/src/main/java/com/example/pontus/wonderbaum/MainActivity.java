@@ -5,6 +5,7 @@ import android.os.Bundle;
 //pruttidapoopi
 //fisiprutti är som risifrutti fast inte
 // ruttifruttipoopidoopi
+//raahhh
 public class MainActivity extends AppCompatActivity {
 
     @Override
