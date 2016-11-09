@@ -2,13 +2,7 @@ package com.example.pontus.wonderbaum;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-//pruttidapoopi
-//fisiprutti är som risifrutti fast inte
-// ruttifruttipoopidoopi
-//raahhh
-// :(
-// nej, :)
-// jjooooooo
+//hello
 public class MainActivity extends AppCompatActivity {
 
     @Override
